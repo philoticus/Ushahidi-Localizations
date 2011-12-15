@@ -2,7 +2,7 @@
 	$lang = array(
 	'email' => array(
 		'email' => 'Adresse email invalide.',
-		'exists' => 'Cette adress email existe déja.',
+		'exists' => 'Cette adresse email existe déja.',
 		'length' => 'L\'adresse email doit comporter entre 4 et 64 caractères.',
 		'required' => 'Veuillez indiquer une adresse email.',
 	),
@@ -25,7 +25,7 @@
 		'values' => 'Le rôle doit être ADMINISTRATEUR ou UTILISATEUR.',
 	),
 	'username' => array(
-		'admin' => 'The role de l\'administrateur ne peut être modifié.',
+		'admin' => 'Le role de l\'administrateur ne peut être modifié.',
 		'alpha' => 'Le nom d\'utilisateur doit être composé de lettres uniquement.',
 		'exists' => 'Ce nom d\'utilisateur est déjà pris.',
 		'length' => 'Le nom d\'utilisateur doit comporter entre 2 et 16 caractères.',
