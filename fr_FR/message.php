@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Veuillez taper un code de sécurité valide',
-		'required' => 'Veuillez taper le code de sécurité',
+		'default' => 'Veuillez saisir un code de sécurité valide',
+		'required' => 'Veuillez saisir le code de sécurité',
 	),
 	'email' => array(
 		'email' => 'Adress email invalide',
@@ -10,7 +10,7 @@
 		'required' => 'Une adresse email est requise si la case est cochée.',
 	),
 	'message' => array(
-		'required' => 'Veuillez entrer un commentaire.',
+		'required' => 'Veuillez saisir un commentaire.',
 	),
 	'name' => array(
 		'length' => 'Le nom doit comporter plus de 3 caractères.',
